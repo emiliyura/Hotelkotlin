@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "389874996161",
+    "firebase_url": "https://hotel-kotlin-log-default-rtdb.firebaseio.com",
+    "project_id": "hotel-kotlin-log",
+    "storage_bucket": "hotel-kotlin-log.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:389874996161:android:e2b00352637b7f615f1540",
+        "android_client_info": {
+          "package_name": "com.example.hotelkotlin"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD8R8Vz3TRjLixrPhiVoeaJtsj7J5es_2A"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
